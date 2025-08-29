@@ -31,6 +31,7 @@ for this purpose.
 
 ### Output:
 
+<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/26696f60-61bd-4b06-81dc-58591c4b354c" />
 
 
 <img width="1909" height="955" alt="image" src="https://github.com/user-attachments/assets/ddd2bbf7-f172-4585-b10a-263acc572c02" />
